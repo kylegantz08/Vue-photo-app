@@ -70,7 +70,7 @@
     "vuex": "^3.0.1",
     "webpack": "^5.94.0",
     "webpack-bundle-analyzer": "^4.6.1",
-    "webpack-dev-server": "^4.11.1",
+    "webpack-dev-server": "^5.2.4",
     "webpack-merge": "^4.1.0"
   },
   "engines": {
